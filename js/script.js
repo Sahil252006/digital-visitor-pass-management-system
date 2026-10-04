@@ -1,0 +1,1 @@
+console.log("Digital Visitor Pass Management System");
