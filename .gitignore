@@ -1,0 +1,13 @@
+# XAMPP / local files
+*.log
+
+# Environment / secrets
+.env
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
